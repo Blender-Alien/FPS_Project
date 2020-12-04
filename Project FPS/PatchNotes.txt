@@ -1,0 +1,43 @@
+Game Version 0.0.1
+	- FPS Setup - Done
+	- Camera Animations - Done
+	- Prototyping Map - Done
+	- 2D Shader - Done
+Game Version 0.0.2
+	- FPS Arms - Done
+	- Submachine Gun - Done
+	- Gun Walk Animations - Done
+Game Version 0.0.3
+	- Basic Main Menu - Done
+	- Improved Weapon -- Coil2 - Done
+	- Settings Menu (WIP) - Done
+Game Version 0.0.4
+	- Weapon Glitch fixed (MLC) - Done
+	- 2D Shader Settings - Done
+	- Improved Menu System - Done
+Game Version 0.0.5
+	- FPS Aiming/Ironsight - Done
+	- FPS Shooting - Done
+	- FPS Reloading - Done
+	- FPS GUI - Done
+	- New MainMenu Camera Motion - Done
+	- Customizable Resolution - Done
+	- Changed 2D Shaders - Done
+	- Improved Python Movement
+Game Version 0.0.6
+	- Dedication
+	- Intro Screen
+	- Main Menu Loading
+	- ACG Implementation
+Game Version 0.0.7
+	- Gun Shooting Sound
+	- Gun Aiming Sound
+	- Gun Reloading Sounds
+Game Version 0.0.8
+	- Improved FPS Arms
+	- Improved Weapon Sway
+Game Version 0.0.9
+	- WIP
+
+
+	
